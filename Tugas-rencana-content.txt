@@ -1,7 +1,5 @@
-penyimpanan simpel
-mudah diakses
-mudah dikunjungi
-javascript
-framework
-augular
+penyimpanan
 laravel
+angular
+struktur data
+vue
