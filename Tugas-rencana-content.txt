@@ -3,3 +3,5 @@ mudah diakses
 mudah dikunjungi
 javascript
 framework
+augular
+laravel
