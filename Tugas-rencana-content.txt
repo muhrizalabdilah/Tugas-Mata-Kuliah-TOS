@@ -1,5 +1,7 @@
-penyimpanan
-laravel
-angular
-struktur data
+penyimpanan simpel
+mudah diakses
+mudah dikunjungi
+javascript
+framework
 vue
+struktur data akses
